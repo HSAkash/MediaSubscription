@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% extends "base/base.html" %}
+
+{% block body_block %}
+<div class="row">
+  {%for walpaper in walpapers%}
+  
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{walpaper.image.url}}">
+          <img src="{{walpaper.image.url}}" alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>{{walpaper.title}}</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  {%endfor%}
+  </div>
+{% endblock %}
