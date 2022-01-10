@@ -86,4 +86,4 @@ High permission Id
 test4@mail.com:test1234@
 
 ### Home
-![Project_images](high_profile.png)
+<img src="https://github.com/HSAkash/MediaSubscription/blob/main/Project_images/high_profile.png?raw=true" width="350" alt="accessibility text">
