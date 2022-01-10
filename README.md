@@ -82,8 +82,21 @@ urlpatterns = [
 ]
 ```
 
-High permission Id
+## High permission Id
 test4@mail.com:test1234@
 
 ### Home
 <img src="https://github.com/HSAkash/MediaSubscription/blob/main/Project_images/high_profile.png?raw=true" width="350" alt="accessibility text">
+
+### Single Image Only permission(High)
+<img src="https://github.com/HSAkash/MediaSubscription/blob/main/Project_images/high_profile_single_image.png?raw=true" width="350" alt="accessibility text">
+
+
+## Low permission Id
+test@mail.com:test1234@
+
+## Home
+<img src="https://github.com/HSAkash/MediaSubscription/blob/main/Project_images/low_profile.png?raw=true" width="350" alt="accessibility text">
+
+## Low permission try to view high permission Image
+<img src="https://github.com/HSAkash/MediaSubscription/blob/main/Project_images/low_profile_cant_show_high_image.png?raw=true" width="350" alt="accessibility text">
