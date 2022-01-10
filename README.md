@@ -81,3 +81,9 @@ urlpatterns = [
 
 ]
 ```
+
+High permission Id
+test4@mail.com:test1234@
+
+### Home
+![Screenshot](high_profile.png)
